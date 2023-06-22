@@ -1,0 +1,4 @@
+1) FIO - Sanets Sergey Aleksandrovich
+2) AGE - 28
+3) PETS - 2
+4) SALARY - 500$
