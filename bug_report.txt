@@ -1,0 +1,6 @@
+1) Name - fix_main_window
+2) Type - bug
+3) Priority - medium
+4) Environment windows_11
+5) Desciption - none
+6) Attachment - none
