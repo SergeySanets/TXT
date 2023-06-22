@@ -1,0 +1,5 @@
+1) Favourite_film - 1+1
+2) Favourite_serial - none
+3) Favourite_food - potato
+4) Favourite_season - winter
+5) Favourite_country - Norway
